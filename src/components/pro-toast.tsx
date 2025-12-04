@@ -33,7 +33,7 @@ export function ProToast() {
           </div>
 
           <button
-            className="border-xs w-full rounded-lg px-2 py-[7px] text-xs font-medium leading-[120%] text-foreground transition-colors hover:bg-[#1E1E1E]"
+            className="border-xs w-full rounded-lg px-2 py-[7px] text-xs font-medium leading-[120%] text-foreground transition-colors hover:bg-[#C9AB95]"
             type="button">
             Get Waitlist
           </button>
