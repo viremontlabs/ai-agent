@@ -27,7 +27,7 @@ export function WalletInfo() {
         <div className="mx-2">
           <button
             type="button"
-            className="h-11 w-full rounded-lg bg-[#FF8400] transition-colors hover:bg-opacity-90"
+            className="h-11 w-full rounded-lg bg-[#C9AB95] transition-colors hover:bg-opacity-90"
             onClick={() => setUser(true)}>
             <p className="text-sm font-medium text-foreground">Connect Wallet</p>
           </button>
